@@ -1,0 +1,9 @@
+[project]
+name = "hunter-bot"
+version = "0.0.1dev0"
+description = "Discord Bot for community with steam integrations."
+requires-python = ">=3.13"
+dependencies = [
+    "discord-py>=2.5.2",
+    "python-dotenv>=1.1.0",
+]
